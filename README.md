@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kai</h1>
-<h3 align="center">I have recently transitioned to the world of programming after a career in banking and finance.</h3>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kai-zhang-dev/">
